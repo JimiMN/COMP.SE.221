@@ -1,4 +1,8 @@
-# COMP.SE.221 Weather Fetching Microservice
+# COMP.SE.221
+
+Different exercises from the course COMP.SE.221
+
+### Weather Fetching Microservice
 
 A simple weather-fetching microservice built with FastAPI. This service allows users to get real-time weather data for any city by making a GET request to the endpoint /weather/{city_name}.
 
