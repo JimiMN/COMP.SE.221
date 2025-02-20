@@ -1,0 +1,2 @@
+I used ChatGPT
+I gave ChatGPT the datasets I got from the API and asked what kind of combinations could I do.
